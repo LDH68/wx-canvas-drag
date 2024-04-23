@@ -1,0 +1,2 @@
+<!--components/canvas-drag/index.wxml-->
+<canvas type="2d" id="myCanvas" disable-scroll="true" bindtouchstart="start" bindtouchmove="move" bindtouchend="end" style='width: {{width}}rpx; height: {{height}}rpx;'></canvas>

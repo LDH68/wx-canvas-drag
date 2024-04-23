@@ -1,0 +1,21 @@
+.btn {
+  padding: 10rpx 20rpx;
+  float: left;
+  margin: 10rpx;
+  border: solid 1px #dfdfdf;
+  border-radius: 10rpx;
+}
+
+.canvas-box {
+  position: relative;
+}
+.shui {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200rpx;
+  height: 200rpx;
+  background-color: rgba(0, 0, 0, 0.2);
+  z-index: 99999;
+  pointer-events: none;
+}
