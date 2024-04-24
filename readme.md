@@ -1,4 +1,4 @@
-## 注意：本代码修改于 wxa-comp-canvas-drag
+## Tip：修改于 wxa-comp-canvas-drag
 
 ## wx-canvas-drag
 
