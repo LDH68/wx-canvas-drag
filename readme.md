@@ -9,8 +9,6 @@
 wx-canvas-drag 是一个可以添加多种元素（图片和文字）的画板，用户可以移动拖拽元素组成自己喜欢的样子并导出图片。
 
 ## 组件效果
-![2986a8b92f7a4640b09e70d6d5f83a16](https://github.com/LDH68/wx-canvas-drag/assets/78954056/72efd985-a6b7-4512-92ea-c885b1bb5963)
-
 
 <img width="300" src="https://img-blog.csdnimg.cn/direct/2986a8b92f7a4640b09e70d6d5f83a16.gif"></img>
 
